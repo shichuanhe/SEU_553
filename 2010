@@ -1,1 +1,7 @@
-2010年复试题
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    return 0;
+}
